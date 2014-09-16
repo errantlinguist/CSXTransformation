@@ -37,7 +37,7 @@
 
 	<!-- Include XSLT stylesheet for CiteSeerX documents -->
 	<!-- TODO: Set this to a valid URL -->
-	<xsl:include href="http://github.com/errantlinguist/CSXTransformation/documents/document.xsl"/>
+	<xsl:include href="http://raw.githubusercontent.com/errantlinguist/CSXTransformation/master/documents/document.xsl"/>
 
 	<xsl:template match="csx:documents">
 		<html>

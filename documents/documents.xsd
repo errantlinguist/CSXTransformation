@@ -35,7 +35,7 @@
 
 	<!-- Include CiteSeerX document schema -->
 	<!-- TODO: Set this to a valid URL -->
-	<xs:include schemaLocation="http://github.com/errantlinguist/CSXTransformation/documents/document.xsd"/>
+	<xs:include schemaLocation="http://raw.githubusercontent.com/errantlinguist/CSXTransformation/master/documents/document.xsd"/>
 
 	<xs:element name="documents" type="target:documents"/>
 	<xs:complexType name="documents">

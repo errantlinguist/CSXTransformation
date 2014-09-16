@@ -10,4 +10,5 @@ Utilities for validating and transforming [CiteSeerX document metadata](http://c
 
 Notes
 --------------------------------------------------------------------------------
-`xsl:include` declarations in the code must be adjusted to point to valid URLs.
+* The definitions provided by the XSD files in this project are permissive in that they validate CSX document data as "correct" even if certain elements are missing.
+* `xsl:include` declarations in the code must be adjusted to point to valid URLs.

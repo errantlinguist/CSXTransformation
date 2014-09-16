@@ -1,7 +1,7 @@
 CSXTransformation
 ========================
 
-Utilities for validating and transforming CiteSeerX document metadata in XML format.
+Utilities for validating and transforming [CiteSeerX document metadata](http://csxstatic.ist.psu.edu/about/data) in XML format.
 
 * **Version:** 2013-06-24
 * **Author:** Todd Shore

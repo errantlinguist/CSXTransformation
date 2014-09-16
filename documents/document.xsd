@@ -33,10 +33,12 @@
 		</xs:documentation>
 	</xs:annotation>
 	<!-- Include data source constant schema -->
-	<xs:include schemaLocation="http://errantlinguist.com/content/cv/publications/sourceConstant.xsd"/>
+	<!-- TODO: Set this to a valid URL -->
+	<xs:include schemaLocation="http://raw.githubusercontent.com/errantlinguist/CSXTransformation/master/documents/sourceConstant.xsd"/>
 	<!-- Include special string constants -->
+	<!-- TODO: Set this to a valid URL -->
 	<xs:include
-		schemaLocation="http://errantlinguist.com/content/cv/publications/stringConstants.xsd"/>
+		schemaLocation="http://raw.githubusercontent.com/errantlinguist/CSXTransformation/master/documents/stringConstants.xsd"/>
 
 	<xs:element name="document" type="target:document"/>
 	<xs:complexType name="document">

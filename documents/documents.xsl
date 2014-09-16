@@ -36,6 +36,7 @@
 	<xsl:output method="xhtml" version="1.0" encoding="utf-8" indent="yes"/>
 
 	<!-- Include XSLT stylesheet for CiteSeerX documents -->
+	<!-- TODO: Set this to a valid URL -->
 	<xsl:include href="http://github.com/errantlinguist/CSXTransformation/documents/document.xsl"/>
 
 	<xsl:template match="csx:documents">

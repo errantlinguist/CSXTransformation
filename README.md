@@ -6,7 +6,7 @@ Utilities for validating and transforming [CiteSeerX document metadata](http://c
 * **Version:** 2013-06-24
 * **Author:** Todd Shore
 * **Website:**  https://github.com/errantlinguist/CSXTransformation
-* **Licensing:** Copyright &copy; 2013&ndash;2014 Todd Shore. Licensed for distribution under the Apache License 2.0: See the files `NOTICE.txt` and `LICENSE.txt`.
+* **Licensing:** Copyright &copy; 2013&ndash;2014 Todd Shore. Licensed for distribution under the Apache License 2.0: See the files `NOTICE` and `LICENSE`.
 
 Notes
 --------------------------------------------------------------------------------
